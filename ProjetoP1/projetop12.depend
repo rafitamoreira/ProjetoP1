@@ -1,0 +1,644 @@
+# depslib dependency file v1.0
+1671646689 source:c:\users\rafa\desktop\estg\p1\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1671646420 c:\users\rafa\desktop\estg\p1\projeto\funcoes_auxiliares.h
+
+1671646718 source:c:\users\rafa\desktop\estg\p1\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1671646418 c:\users\rafa\desktop\estg\p1\projeto\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1671646884 source:c:\users\rafa\desktop\estg\p1\projeto\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1671140568 c:\users\rafa\desktop\estg\p1\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_portatil.h"
+
+1671646419 c:\users\rafa\desktop\estg\p1\projeto\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1671464704 source:c:\users\rafa\desktop\estg\p1\projeto\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1671646417 c:\users\rafa\desktop\estg\p1\projeto\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1671646275 source:c:\users\rafa\desktop\estg\p1\projeto\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1671646689 source:c:\users\ruben\documents\projetonewp1\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1671656123 c:\users\ruben\documents\projetonewp1\projeto\funcoes_auxiliares.h
+
+1671656872 c:\users\ruben\documents\projetonewp1\projeto\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1671646418 c:\users\ruben\documents\projetonewp1\projeto\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1671646884 source:c:\users\ruben\documents\projetonewp1\projeto\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1671647209 source:c:\users\ruben\documents\projetonewp1\projeto\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1671646417 c:\users\ruben\documents\projetonewp1\projeto\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1671657203 source:c:\users\ruben\documents\projetonewp1\projeto\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1671656849 source:c:\users\ruben\documents\projetonewp1\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673221766 source:c:\users\rafa\desktop\projeto2\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673221774 c:\users\rafa\desktop\projeto2\funcoes_auxiliares.h
+
+1673216030 c:\users\rafa\desktop\projeto2\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673194585 c:\users\rafa\desktop\projeto2\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673223330 source:c:\users\rafa\desktop\projeto2\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673214310 source:c:\users\rafa\desktop\projeto2\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673223337 source:c:\users\rafa\desktop\projeto2\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673113987 c:\users\rafa\desktop\projeto2\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673220513 source:c:\users\rafa\desktop\projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1672343479 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1672338846 c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_auxiliares.h
+
+1672428709 c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1672263294 c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1672430495 c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1672430361 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1672249860 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1672431439 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1672429233 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673221766 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673221774 c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_auxiliares.h
+
+1673216030 c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673194585 c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673463314 c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673464988 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673214310 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673464276 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673279440 source:c:\users\ruben\documents\programacao1_2022.2023\atualizado\fara\projeto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673494570 source:c:\users\rafa\desktop\ruben\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673221774 c:\users\rafa\desktop\ruben\funcoes_auxiliares.h
+
+1673467465 c:\users\rafa\desktop\ruben\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673194585 c:\users\rafa\desktop\ruben\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673491872 c:\users\rafa\desktop\ruben\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673490674 source:c:\users\rafa\desktop\ruben\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673493853 source:c:\users\rafa\desktop\ruben\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673494591 source:c:\users\rafa\desktop\ruben\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673494494 source:c:\users\rafa\desktop\ruben\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673498118 source:c:\users\ruben\desktop\txuba\ruben\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673221774 c:\users\ruben\desktop\txuba\ruben\funcoes_auxiliares.h
+
+1673467465 c:\users\ruben\desktop\txuba\ruben\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673194585 c:\users\ruben\desktop\txuba\ruben\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673491872 c:\users\ruben\desktop\txuba\ruben\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673493853 source:c:\users\ruben\desktop\txuba\ruben\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673490674 source:c:\users\ruben\desktop\txuba\ruben\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673494742 source:c:\users\ruben\desktop\txuba\ruben\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673498213 source:c:\users\ruben\desktop\txuba\ruben\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673498514 source:c:\users\ruben\desktop\txuba\projetotxuba\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673221774 c:\users\ruben\desktop\txuba\projetotxuba\funcoes_auxiliares.h
+
+1673467465 c:\users\ruben\desktop\txuba\projetotxuba\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673194585 c:\users\ruben\desktop\txuba\projetotxuba\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673491872 c:\users\ruben\desktop\txuba\projetotxuba\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673493853 source:c:\users\ruben\desktop\txuba\projetotxuba\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673490674 source:c:\users\ruben\desktop\txuba\projetotxuba\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673494742 source:c:\users\ruben\desktop\txuba\projetotxuba\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673498213 source:c:\users\ruben\desktop\txuba\projetotxuba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673539229 source:c:\users\rafa\desktop\projetotxuba\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673498906 c:\users\rafa\desktop\projetotxuba\funcoes_auxiliares.h
+
+1673554118 c:\users\rafa\desktop\projetotxuba\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673551808 c:\users\rafa\desktop\projetotxuba\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673548099 c:\users\rafa\desktop\projetotxuba\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673554147 source:c:\users\rafa\desktop\projetotxuba\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673554977 source:c:\users\rafa\desktop\projetotxuba\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673538442 source:c:\users\rafa\desktop\projetotxuba\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673555240 source:c:\users\rafa\desktop\projetotxuba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673539229 source:c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673498906 c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_auxiliares.h
+
+1673554118 c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673551808 c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673548099 c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673554147 source:c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673560967 source:c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673557242 source:c:\users\ruben\desktop\txuba\atualizado\projetotxuba\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673562444 source:c:\users\ruben\desktop\txuba\atualizado\projetotxuba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
+1673539229 source:c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+	"funcoes_escrever_ler_text_binario.h"
+
+1673498906 c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_auxiliares.h
+
+1673554118 c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_escrever_ler_text_binario.h
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+	"funcoes_requisicoes_agendar.h"
+
+1673551808 c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_portatil.h
+	"funcoes_auxiliares.h"
+
+1673548099 c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_requisicoes_agendar.h
+	"funcoes_portatil.h"
+
+1673554147 source:c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_escrever_ler_text_binario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_escrever_ler_text_binario.h"
+
+1673560967 source:c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_portatil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_auxiliares.h"
+	"funcoes_portatil.h"
+
+1673563253 source:c:\users\ruben\desktop\txuba\projetop1\projetop1\funcoes_requisicoes_agendar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_portatil.h"
+	"funcoes_auxiliares.h"
+
+1673563480 source:c:\users\ruben\desktop\txuba\projetop1\projetop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoes_portatil.h"
+	"funcoes_escrever_ler_text_binario.h"
+	"funcoes_requisicoes_agendar.h"
+	"funcoes_auxiliares.h"
+
